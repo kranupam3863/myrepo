@@ -1,2 +1,2 @@
 # myrepo
-my git playground
+this is my git playground
